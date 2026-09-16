@@ -1,4 +1,3 @@
-# User-Configuration-Manager
 # User Configuration Manager
 
 A simple Python-based tool for managing and updating user configuration settings.
