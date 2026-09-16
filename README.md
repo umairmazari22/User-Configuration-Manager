@@ -48,6 +48,5 @@ Through this project, I am practicing:
 * Project documentation
 
 ## 👨‍💻 Author
-
 **Muhammad Umair**
 
