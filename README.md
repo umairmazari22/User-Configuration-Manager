@@ -51,5 +51,3 @@ Through this project, I am practicing:
 
 **Muhammad Umair**
 
-IT Student | Cybersecurity & Technology Enthusiast
-
